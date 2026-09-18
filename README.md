@@ -130,3 +130,10 @@ Amazon_Sales_Project/
 │
 ├── requirements.txt                # Python runtime dependencies
 └── README.md                       # Comprehensive project documentation
+---
+
+## 5. Setup & Execution Guide
+
+### Local Execution
+```bash
+streamlit run Pankaj_AmazonSales.py
